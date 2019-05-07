@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 8ACC-95F7
+
+ Directory of D:\Softwares\git-exe\my_project
+
+07/05/2019  15:34    <DIR>          .
+07/05/2019  15:34    <DIR>          ..
+07/05/2019  15:34                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  497.466.327.040 bytes free
